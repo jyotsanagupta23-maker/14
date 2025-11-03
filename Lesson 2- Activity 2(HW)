@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Dishes of India</title>
+    <link rel='stylesheet' href='stl.css' type="text/css">
+</head>
+</html>
+<body>
+    <div class="main">
+        <!--Heading-->
+        <header>
+            <h1>Dishes of India</h1>
+        </header>
+        <!--intro-->
+        <div id="intro">
+            <h2> India</h2>
+            <p>India is a diversed country because people eating different food, wearing different clothes, speaking different languages and believing in different faiths live together here. So, we are going to talk about different dishes of India in this Webpage.</p>
+        </div>
+        <!--content 1-->
+            <div class="States">
+                <div id="States dishes">
+                        <div>
+                            <h2>Names of Indian States</h2>
+                            <p>Andhra Pradesh</p>
+                            <p>Arunachal Pradesh</p>
+                            <p>Assam</p>
+                            <p>Bihar</p>
+                            <p>Chhattisgarh</p>
+                            <p>Goa</p>
+                            <p>Gujarat</p>
+                            <p>Haryana</p>
+                            <p>Himachal Pradesh</p>
+                            <p>Jharkhand</p>
+                            <p>Karnataka</p>
+                            <p>Kerala</p>
+                            <p>Madhya Pradesh</p>
+                            <p>Maharashtra</p>
+                            <p>Manipur</p>
+                            <p>Meghalaya</p>
+                            <p>Mizoram</p>
+                            <p>Nagaland</p>
+                            <p>Odisha</p>
+                            <p>Punjab</p>
+                            <p>Rajasthan</p>
+                            <p>Sikkim</p>
+                            <p>Tamil Nadu</p>
+                            <p>Telangana</p>
+                            <p>Tripura</p>
+                            <p>Uttar Pradesh</p>
+                            <p>Uttarakhand</p>
+                            <p>West Bengal</p>
+                        </div>
+                </div>
+                <!--content 2-->
+                <div id="dishes" class="states">
+                    <h2>Famous Dishes</h2>
+                    <p><strong>Andhra Pradesh- </strong>Hyderabadi Biryani</p>
+                    <p><strong>Arunachal Pradesh- </strong>Pika Pila</p>
+                    <p><strong>Assam- </strong>Khar</p>
+                    <p><strong>Bihar- </strong>Litti Chokha</p>
+                    <p><strong>Chhattisgarh- </strong>Chila, Fara And Aamat</p>
+                    <p><strong>Goa- </strong>Vindaloo</p>
+                    <p><strong>Gujarat- </strong>Dhokla and Khaman</p>
+                    <p><strong>Haryana- </strong>Kadhi Pakora</p>
+                    <p><strong>Himachal Pradesh- </strong>Siddu</p>
+                    <p><strong>Jharkhand- </strong>Dhuska</p>
+                    <p><strong>Karnataka- </strong>Bisi Bele Bath</p>
+                    <p><strong>Kerala- </strong>Puttu and Kadala Curry</p>
+                    <p><strong>Madhya Pradesh- </strong>Poha</p>
+                    <p><strong>Maharashtra- </strong>Vada Pav</p>
+                    <p><strong>Manipur- </strong>Eromba</p>
+                    <p><strong>Meghalaya- </strong>Jadoh</p>
+                    <p><strong>Mizoram- </strong>Bai</p>
+                    <p><strong>Nagaland- </strong>Smoked Pork with Fermented Soyabeans</p>
+                    <p><strong>Odisha- </strong>Dalma and Chhena Poda</p>
+                    <p><strong>Punjab- </strong>Butter Chicken and Sarson Da Saag with Makki Di Roti</p>
+                    <p><strong>Rajasthan- </strong>Dal Baati Churma</p>
+                    <p><strong>Sikkim- </strong>Momo and Thukpa</p>
+                    <p><strong>Tamil Nadu- </strong>Idli and Dosa with Sambar and Chutney</p>
+                    <p><strong>Telangana- </strong>Hyderabadi Biryani</p>
+                    <p><strong>West Bengal- </strong>Ilish Macher Jhol</p>
+                    <p><strong>Tripura- </strong>Gudok</p>
+                    <p><strong>Uttar Pradesh- </strong>Nihari, Awadhi Biryani, Galouti Kebab, and Litti Chokha</p>
+                    <p><strong>Uttarakhand- </strong>Phaanu, Chainsoo, Kafuli, Aloo Ke Gutke and Bal Mithai</p>
+                </div>
+                </div>
+                    <!--contact-->
+                    <div class="teacher-info">
+                    <footer>
+                        <h3>To taste them</h3>
+                        <p><span>Contact us:</span> Mrs. Gaurika</p>
+                        <p><span>Ph. no:</span> +9164046</p>
+                        <address>C-88, Dwarka Mor Metro Station, New Delhi</address>
+</div>
+</body>
